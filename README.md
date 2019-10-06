@@ -65,6 +65,7 @@ Or, they might list an alternative technique that might be used if a certain ass
 Implementations contains multiple subsections, one for each piece of statistical software/programming langauge that the technique can be implemented in. 
 
 - Any language is valid as long as it's something people actually do statistical analysis in. Don't include something just because you *can*, but because you think someone will find it useful.
+- Implementations should be listed in **alphabetical order of software/language**. eViews, then Python, then R, then SAS, then Stata, etc.
 - For each language, include well-commented and **brief** example code that provides an example of performing the technique. Readers should be able to copy the code and have it run the technique from beginning to end, including steps like loading in data if necessary. See existing pages for examples.
 - Avoid creating a long list of examples showing every variant or optional setting of the technique. Instead, focus on one main example, with variants included only if they are especially important.
 - If the technique requires that a package or library be installed, include the code for installing the package in a comment (or if you are using a language where libraries cannot be installed inside the code, include a comment directing the user to install the library).
