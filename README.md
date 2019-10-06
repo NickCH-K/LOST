@@ -35,7 +35,7 @@ Things to remember while writing:
 
 # CREATING A LOST PAGE
 
-When starting a LOST page, you may want to copy the [New Page Template](https://github.com/NickCH-K/LOST/blob/master/NewPageTemplate). There are four main sections of a LOST page:
+When starting a LOST page, you should copy the [New Page Template](https://github.com/NickCH-K/LOST/blob/master/NewPageTemplate). There are four main sections of a LOST page:
 
 ## Introduction
 
