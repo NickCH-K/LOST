@@ -14,7 +14,7 @@ For each of those techniques, the LOST page will contain code for performing tha
 
 1. [Get a GitHub account](https://github.com/join). You do not need to know Git to contribute to LOST, but you do need a GitHub account.
 2. Read the [Guide to Editing Wiki Content](https://help.github.com/en/articles/editing-wiki-content) which will show the syntax that is used on GitHub Wiki pages.
-3. Read the below LOST Writing Guide, which shows what a good LOST page looks like.
+3. Read the below LOST Writing Guide, which shows what a good LOST page looks like from top to bottom. Even if you are just adding another language to an existing page, be sure to read the Implementations section at the bottom.
 4. Go to the [LOST Wiki](https://github.com/NickCH-K/LOST/wiki), find a page that needs to be expanded, and add more content. Or find one that doesn't exist but should, and write it yourself!
 
 # LOST WRITING GUIDE
