@@ -79,6 +79,8 @@ Images can be added to Implementation sections if relevant, for example if you'r
 
 How can you add these images? You can upload the images somewhere on the internet that allows image linking, and [include the image in your instructions](https://help.github.com/en/articles/editing-wiki-content). Or, ideally, if you know how to use GitHub, you can issue a Pull Request to upload the images to the LOST/Pictures/NameofPage folder, and link to the images there. 
 
+Please be sure to add alt text to images for sight-impaired users.
+
 # FREQUENTLY ASKED QUESTIONS
 
 - **What techniques are important enough to be their own page?** This is a little subjective, but if you're writing about X, which is a minor option/variant of Y, then you can just include it on the Y page. If X is a *different technique* or a variant of Y that is used in different circumstances or produces meaningfully different output, then give X its own page.
