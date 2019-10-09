@@ -64,7 +64,7 @@ Or, they might list an alternative technique that might be used if a certain ass
 
 ## Implementations
 
-Implementations contains multiple subsections, one for each piece of statistical software/programming langauge that the technique can be implemented in. 
+Implementations contains multiple subsections, one for each statistical software environment/programming language that the technique can be implemented in. 
 
 - Implementations should be listed in **alphabetical order of software/language**. eViews, then Python, then R, then SAS, then Stata, etc.
 - For each language, include well-commented and **as-brief-as-reasonably-possible** example code that provides an example of performing the technique. Readers should be able to copy the code and have it run the technique from beginning to end, including steps like loading in data if necessary. See existing pages for examples.
@@ -85,7 +85,7 @@ Please be sure to add alt text to images for sight-impaired users.
 # FREQUENTLY ASKED QUESTIONS
 
 - **What techniques are important enough to be their own page?** This is a little subjective, but if you're writing about X, which is a minor option/variant of Y, then you can just include it on the Y page. If X is a *different technique* or a variant of Y that is used in different circumstances or produces meaningfully different output, then give X its own page.
-- **How should I title my page?** The filename for a page is a little restricted - it can't be too long, and it doesn't allow special characters like / or (). So pick a single, concise description of the technique you're talking about. You can be more descriptive in the in-page title (the title on the first line with the H1/# heading). So Ordinary Least Squares might be the filename, and Ordinary Least Squares (Linear Regression) might be the H1 heading.
+- **How should I title my page?** The filename for a page is a little restricted - it can't be too long, and it doesn't allow special characters like / or (). So pick a single, concise description of the technique you're talking about. You can be more descriptive in the in-page title (the title on the first line with the H1/# heading), and when you include your page on one of the Category pages. So Ordinary Least Squares might be the filename, and Ordinary Least Squares (Linear Regression) might be the H1 heading and how you describe it on the Estimation page.
 - **What languages can I include in Implementations?** Any language is valid as long as it's something people actually do statistical analysis in. Don't include something just because you *can* (I mean, you can technically do OLS in assembly but is that useful for anyone?), but because you think someone will find it useful.
 - **Should I include the output of my code?** For data visualization, yes! Just keep the images relatively small so they don't crowd the page. See the Implementations section above for how to add images. If your output is not visual, there's probably no need to include output unless you think that it is especially important for some technique.
 - **How can I discuss what I'm doing with other contributors?** GitHub Wiki, unlike Wikipedia, does not have Talk pages for contributors to discuss changes to a page. Instead, head to the [Issues](https://github.com/NickCH-K/LOST/issues) page and find (or post) a thread with the title of the page you're talking about.
