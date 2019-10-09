@@ -40,7 +40,7 @@ When starting a LOST page, you should copy the [New Page Template](https://githu
 
 ## Introduction
 
-This is a *very brief* introduction to the technique. Just a few sentences about what it is and does, and perhaps why it is used. LOST is not the place for an in-depth explanation of the statistical details behind a method. Instead, for more detailed explanations link to an outside trusted source like Wikipedia or a (non-paywalled) academic paper.
+This is an introduction to the technique. Most of the time this will be just a few sentences about what it is and does, and perhaps why it is used. However, in cases of more niche or complex material, there may be a reason to include more detailed information or general non-language-specific instructions here. In general, however, for more detailed explanations or discussions of statistical properties, you can always just link to an outside trusted source like Wikipedia or a (non-paywalled) academic paper. 
 
 Math is not supported. Generally, you can refer to terms by simply putting them in bold. If an equation is necessary, create the equation as an image on [this page](https://www.codecogs.com/latex/eqneditor.php) and include the equation as an image.
 
@@ -60,7 +60,7 @@ This is a list of *other* techniques that are commonly used *in addition to* thi
 
 For example, pages about estimation techniques might list standard robustness tests to be used in addition to the technique, or adjustments to standard errors they might want to use. A page about a data visualization technique might include a link to a page about setting color palettes to be used in addition.
 
-Or, they might list an alternative technique that might be used if a certain assumption fails ("This estimation/data visualization technique requires continuous variables. So if your data is discrete, use this other method.").
+Or, they might list an alternative technique that might be used if a certain assumption fails ("This technique requires continuous variables. So if your data is discrete, use this other method.").
 
 ## Implementations
 
@@ -90,3 +90,4 @@ Please be sure to add alt text to images for sight-impaired users.
 - **Should I include the output of my code?** For data visualization, yes! Just keep the images relatively small so they don't crowd the page. See the Implementations section above for how to add images. If your output is not visual, there's probably no need to include output unless you think that it is especially important for some technique.
 - **How can I discuss what I'm doing with other contributors?** GitHub Wiki, unlike Wikipedia, does not have Talk pages for contributors to discuss changes to a page. Instead, head to the [Issues](https://github.com/NickCH-K/LOST/issues) page and find (or post) a thread with the title of the page you're talking about.
 - **How can I [add an image/link to another LOST page/add an external link/bold text] in the LOST wiki?** See the [Guide to Editing Wiki Content](https://help.github.com/en/articles/editing-wiki-content).
+- **I want to contribute but I do not like all the rules and structure on this page. I don't even want my FAQ entry to be a question. Just let me write what I want.** If you have valuable knowledge about statistical techniques to share with people and are able to explain things clearly, I don't want to stop you. So go for it. Maybe post something in [Issues](https://github.com/NickCH-K/LOST/issues) when you're done and perhaps someone else will help make your page more consistent with the rest of the Wiki. I mean, it would be nicer if you did that yourself, but hey, we all have different strengths, right?
